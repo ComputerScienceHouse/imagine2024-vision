@@ -30,7 +30,7 @@ python main.py
 ### Points of Interest:
 - Line 39: adjust this to change the yolo model to be used for inference
 - Line 45: adjust this to change coordinates for desired polygon zone to extra regions of interest from
-  - Run `getcoords.py` on a screenshot of your desires video or camera to determine which points you want for your polygon zone
+  - Run `getcoords.py` on a screenshot of your desired video or camera to determine which points you want for your polygon zone
 - Line 48: change this according to your desired fps if you want to utilize supervision's tracker
 - Line 56: change "cabinetview.webm" to your desired video or camera
 - Line 62: change this according to your fps and resolution
