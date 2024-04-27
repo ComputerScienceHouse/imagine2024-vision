@@ -1,0 +1,6 @@
+opencv-python
+supervision
+ultralytics
+numpy
+torch
+dill
